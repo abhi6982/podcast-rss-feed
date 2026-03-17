@@ -10,33 +10,63 @@ import sys
 from datetime import datetime, timezone
 from xml.sax.saxutils import escape
 
-MANIFEST_FILE = os.path.join(os.path.dirname(__file__), "episodes.json")
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "feeds")
 
-PODCAST_INFO = {
-    "en": {
-        "title": "Political Science Explained",
-        "description": "Deep-dive educational podcast covering political science from ideologies to revolutions. Perfect for students, curious minds, and anyone who wants to understand how the world is governed. New episode daily.",
-        "language": "en",
-        "author": "Abishek Lakandri",
-        "email": "abishek.lakandri69@gmail.com",
-        "category": "Education",
-        "subcategory": "How To",
-        "image": "",
-        "website": "",
-        "feed_file": "political-science-en.xml"
+# All podcast shows — each has its own manifest file and RSS feeds
+SHOWS = {
+    "political-science": {
+        "manifest": "episodes.json",
+        "feeds": {
+            "en": {
+                "title": "Political Science Explained",
+                "description": "Deep-dive educational podcast covering political science from ideologies to revolutions. Perfect for students, curious minds, and anyone who wants to understand how the world is governed. New episode daily.",
+                "language": "en",
+                "author": "Abishek Lakandri",
+                "email": "abishek.lakandri69@gmail.com",
+                "category": "Education",
+                "subcategory": "How To",
+                "feed_file": "political-science-en.xml",
+                "ep_key": "day"
+            },
+            "ne": {
+                "title": "राजनीतिशास्त्र — Political Science in Nepali",
+                "description": "नेपाली भाषामा राजनीतिशास्त्रको विस्तृत व्याख्या। विद्यार्थीहरूको लागि सरल र शैक्षिक पोडकास्ट। हरेक दिन नयाँ एपिसोड।",
+                "language": "ne",
+                "author": "Abishek Lakandri",
+                "email": "abishek.lakandri69@gmail.com",
+                "category": "Education",
+                "subcategory": "How To",
+                "feed_file": "political-science-ne.xml",
+                "ep_key": "day"
+            }
+        }
     },
-    "ne": {
-        "title": "राजनीतिशास्त्र — Political Science in Nepali",
-        "description": "नेपाली भाषामा राजनीतिशास्त्रको विस्तृत व्याख्या। विद्यार्थीहरूको लागि सरल र शैक्षिक पोडकास्ट। हरेक दिन नयाँ एपिसोड।",
-        "language": "ne",
-        "author": "Abishek Lakandri",
-        "email": "abishek.lakandri69@gmail.com",
-        "category": "Education",
-        "subcategory": "How To",
-        "image": "",
-        "website": "",
-        "feed_file": "political-science-ne.xml"
+    "professor-jiang": {
+        "manifest": "jiang-episodes.json",
+        "feeds": {
+            "en": {
+                "title": "Professor Jiang Deep Dive — Predictive History",
+                "description": "Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.",
+                "language": "en",
+                "author": "Abishek Lakandri",
+                "email": "abishek.lakandri69@gmail.com",
+                "category": "History",
+                "subcategory": "Documentary",
+                "feed_file": "professor-jiang-en.xml",
+                "ep_key": "episode"
+            },
+            "ne": {
+                "title": "प्रोफेसर जियांग — गहन विश्लेषण | Predictive History in Nepali",
+                "description": "प्रोफेसर जियांग शुएचिनको भाइरल Predictive History शृङ्खलाको गहन विश्लेषण र तथ्य-जाँच। नेपाली भाषामा ऐतिहासिक र भू-राजनीतिक विषयहरूको विस्तृत अध्ययन।",
+                "language": "ne",
+                "author": "Abishek Lakandri",
+                "email": "abishek.lakandri69@gmail.com",
+                "category": "History",
+                "subcategory": "Documentary",
+                "feed_file": "professor-jiang-ne.xml",
+                "ep_key": "episode"
+            }
+        }
     }
 }
 
@@ -44,32 +74,32 @@ def gdrive_direct_url(file_id):
     """Convert a Google Drive file ID to a direct download URL."""
     return f"https://drive.google.com/uc?export=download&id={file_id}"
 
-def generate_feed(lang, episodes):
-    info = PODCAST_INFO[lang]
+def generate_feed(show_id, lang, info, episodes):
     now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+    ep_key = info.get("ep_key", "day")
 
     items = []
-    for ep in sorted(episodes, key=lambda e: e["day"], reverse=True):
+    for ep in sorted(episodes, key=lambda e: e.get(ep_key, 0), reverse=True):
         file_id = ep.get(f"{lang}Id", "")
         if not file_id:
             continue
 
         url = gdrive_direct_url(file_id)
-        title = ep.get("title", f"Episode {ep['day']}")
-        day = ep["day"]
+        title = ep.get("title", f"Episode {ep.get(ep_key, '?')}")
+        ep_num = ep.get(ep_key, 0)
         pub_date = ep.get("date", now)
-        description = ep.get("description", f"Day {day} of Political Science: {title}")
+        description = ep.get("description", f"Episode {ep_num}: {title}")
         duration = ep.get(f"{lang}Duration", "")
         file_size = ep.get(f"{lang}Size", "0")
 
         items.append(f"""    <item>
-      <title>Day {day}: {escape(title)}</title>
+      <title>{escape(title)}</title>
       <description>{escape(description)}</description>
       <enclosure url="{escape(url)}" length="{file_size}" type="audio/mpeg"/>
-      <guid isPermaLink="false">political-science-{lang}-day-{day:03d}</guid>
+      <guid isPermaLink="false">{show_id}-{lang}-ep-{ep_num:03d}</guid>
       <pubDate>{pub_date}</pubDate>
-      <itunes:episode>{day}</itunes:episode>
-      <itunes:title>Day {day}: {escape(title)}</itunes:title>
+      <itunes:episode>{ep_num}</itunes:episode>
+      <itunes:title>{escape(title)}</itunes:title>
       <itunes:summary>{escape(description)}</itunes:summary>
       <itunes:duration>{duration}</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -84,7 +114,7 @@ def generate_feed(lang, episodes):
     <title>{escape(info["title"])}</title>
     <description>{escape(info["description"])}</description>
     <language>{info["language"]}</language>
-    <link>{info.get("website", "")}</link>
+    <link></link>
     <lastBuildDate>{now}</lastBuildDate>
     <itunes:author>{escape(info["author"])}</itunes:author>
     <itunes:owner>
@@ -107,15 +137,19 @@ def generate_feed(lang, episodes):
     print(f"Generated {out_path} ({len(items)} episodes)")
 
 def main():
-    if not os.path.exists(MANIFEST_FILE):
-        print(f"Error: {MANIFEST_FILE} not found", file=sys.stderr)
-        sys.exit(1)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
 
-    with open(MANIFEST_FILE) as f:
-        episodes = json.load(f)
+    for show_id, show in SHOWS.items():
+        manifest_path = os.path.join(script_dir, show["manifest"])
+        if not os.path.exists(manifest_path):
+            print(f"Skipping {show_id}: {show['manifest']} not found")
+            continue
 
-    generate_feed("en", episodes)
-    generate_feed("ne", episodes)
+        with open(manifest_path) as f:
+            episodes = json.load(f)
+
+        for lang, info in show["feeds"].items():
+            generate_feed(show_id, lang, info, episodes)
 
 if __name__ == "__main__":
     main()
