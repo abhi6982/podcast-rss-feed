@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Wed, 18 Mar 2026 12:29:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 19:12:18 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,17 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
+    <item>
+      <title>Secret History #2: How Societies Collapse</title>
+      <description>Episode 2: Secret History #2: How Societies Collapse</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vsSj5NghWSfAi_zTZKF2mYVngVs5yiWb" length="43517348" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-002</guid>
+      <pubDate>Wed, 18 Mar 2026 19:12:18 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <itunes:title>Secret History #2: How Societies Collapse</itunes:title>
+      <itunes:summary>Episode 2: Secret History #2: How Societies Collapse</itunes:summary>
+      <itunes:duration>45:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
