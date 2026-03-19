@@ -8,7 +8,7 @@
     <description>प्रोफेसर जियांग शुएचिनको भाइरल Predictive History शृङ्खलाको गहन विश्लेषण र तथ्य-जाँच। नेपाली भाषामा ऐतिहासिक र भू-राजनीतिक विषयहरूको विस्तृत अध्ययन।</description>
     <language>ne</language>
     <link></link>
-    <lastBuildDate>Thu, 19 Mar 2026 21:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 21:54:59 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -29,6 +29,18 @@
       <itunes:title>Secret History #4:  How Evil Triumphs</itunes:title>
       <itunes:summary>Episode 4: Secret History #4:  How Evil Triumphs</itunes:summary>
       <itunes:duration>58:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Secret History #3: Death by Gerontocracy</title>
+      <description>Episode 3: Secret History #3: Death by Gerontocracy</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1crgNt-IVw_WHb_n3CAlJYhqijioZvZ_r" length="28099628" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-ne-ep-003</guid>
+      <pubDate>Thu, 19 Mar 2026 21:54:59 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <itunes:title>Secret History #3: Death by Gerontocracy</itunes:title>
+      <itunes:summary>Episode 3: Secret History #3: Death by Gerontocracy</itunes:summary>
+      <itunes:duration>29:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
