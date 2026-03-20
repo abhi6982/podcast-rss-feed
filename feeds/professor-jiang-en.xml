@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Thu, 19 Mar 2026 21:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 07:17:17 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #5:  The Birth of Evil</title>
+      <description>Episode 5: Secret History #5:  The Birth of Evil</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bfKgYH9j1PgtRMiQFZ0LXn-WIIF5TS02" length="40860698" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-005</guid>
+      <pubDate>Fri, 20 Mar 2026 07:17:17 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <itunes:title>Secret History #5:  The Birth of Evil</itunes:title>
+      <itunes:summary>Episode 5: Secret History #5:  The Birth of Evil</itunes:summary>
+      <itunes:duration>42:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #4:  How Evil Triumphs</title>
       <description>Episode 4: Secret History #4:  How Evil Triumphs</description>
