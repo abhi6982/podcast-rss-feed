@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Sat, 21 Mar 2026 18:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 07:15:40 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #7:  Death by Meritocracy</title>
+      <description>Episode 7: Secret History #7:  Death by Meritocracy</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YtrG78oUsukNz9zY-5faFYrG_be5-2sL" length="44346909" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-007</guid>
+      <pubDate>Sun, 22 Mar 2026 07:15:40 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <itunes:title>Secret History #7:  Death by Meritocracy</itunes:title>
+      <itunes:summary>Episode 7: Secret History #7:  Death by Meritocracy</itunes:summary>
+      <itunes:duration>46:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #5:  The Birth of Evil</title>
       <description>Episode 5: Secret History #5:  The Birth of Evil</description>

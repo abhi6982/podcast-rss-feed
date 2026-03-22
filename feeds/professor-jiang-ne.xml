@@ -8,7 +8,7 @@
     <description>प्रोफेसर जियांग शुएचिनको भाइरल Predictive History शृङ्खलाको गहन विश्लेषण र तथ्य-जाँच। नेपाली भाषामा ऐतिहासिक र भू-राजनीतिक विषयहरूको विस्तृत अध्ययन।</description>
     <language>ne</language>
     <link></link>
-    <lastBuildDate>Sat, 21 Mar 2026 18:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 07:15:40 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #7:  Death by Meritocracy</title>
+      <description>Episode 7: Secret History #7:  Death by Meritocracy</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HxsxMYULjMKYne5onk8gWR9mXiXE1ypA" length="29338682" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-ne-ep-007</guid>
+      <pubDate>Sun, 22 Mar 2026 07:15:40 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <itunes:title>Secret History #7:  Death by Meritocracy</itunes:title>
+      <itunes:summary>Episode 7: Secret History #7:  Death by Meritocracy</itunes:summary>
+      <itunes:duration>30:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #5:  The Birth of Evil</title>
       <description>Episode 5: Secret History #5:  The Birth of Evil</description>
