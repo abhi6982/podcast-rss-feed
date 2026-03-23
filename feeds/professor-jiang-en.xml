@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Sun, 22 Mar 2026 12:17:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 05:00:17 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #8:  Death by Bureaucracy</title>
+      <description>Episode 8: Secret History #8:  Death by Bureaucracy</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uTncscXVJOdN9C5i0WZh91eJq-4EOXOU" length="47961610" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-008</guid>
+      <pubDate>Mon, 23 Mar 2026 05:00:17 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <itunes:title>Secret History #8:  Death by Bureaucracy</itunes:title>
+      <itunes:summary>Episode 8: Secret History #8:  Death by Bureaucracy</itunes:summary>
+      <itunes:duration>49:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #7:  Death by Meritocracy</title>
       <description>Episode 7: Secret History #7:  Death by Meritocracy</description>

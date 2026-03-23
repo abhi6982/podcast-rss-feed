@@ -8,7 +8,7 @@
     <description>प्रोफेसर जियांग शुएचिनको भाइरल Predictive History शृङ्खलाको गहन विश्लेषण र तथ्य-जाँच। नेपाली भाषामा ऐतिहासिक र भू-राजनीतिक विषयहरूको विस्तृत अध्ययन।</description>
     <language>ne</language>
     <link></link>
-    <lastBuildDate>Sun, 22 Mar 2026 12:17:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 05:00:17 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #8:  Death by Bureaucracy</title>
+      <description>Episode 8: Secret History #8:  Death by Bureaucracy</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LN3sonoNemleaztWz0iQHCkHyOQ_AAim" length="37512689" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-ne-ep-008</guid>
+      <pubDate>Mon, 23 Mar 2026 05:00:17 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <itunes:title>Secret History #8:  Death by Bureaucracy</itunes:title>
+      <itunes:summary>Episode 8: Secret History #8:  Death by Bureaucracy</itunes:summary>
+      <itunes:duration>39:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #7:  Death by Meritocracy</title>
       <description>Episode 7: Secret History #7:  Death by Meritocracy</description>
