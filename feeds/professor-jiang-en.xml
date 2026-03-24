@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Mon, 23 Mar 2026 12:15:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 05:29:15 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #9:   The Theory of Everything</title>
+      <description>Episode 9: Secret History #9:   The Theory of Everything</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YR7Hf2AZPBIAj9L8YaWznoMl_TS3W-9R" length="38712150" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-009</guid>
+      <pubDate>Tue, 24 Mar 2026 05:29:15 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <itunes:title>Secret History #9:   The Theory of Everything</itunes:title>
+      <itunes:summary>Episode 9: Secret History #9:   The Theory of Everything</itunes:summary>
+      <itunes:duration>40:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #8:  Death by Bureaucracy</title>
       <description>Episode 8: Secret History #8:  Death by Bureaucracy</description>
