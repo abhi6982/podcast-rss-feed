@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Thu, 26 Mar 2026 20:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:22:27 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #11:  Dawn of the Human Imagination</title>
+      <description>Episode 11: Secret History #11:  Dawn of the Human Imagination</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eV_8lljE4tRIe49gZc3jRKlTlRrPtYQY" length="42820876" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-011</guid>
+      <pubDate>Thu, 26 Mar 2026 20:22:27 +0000</pubDate>
+      <itunes:episode>11</itunes:episode>
+      <itunes:title>Secret History #11:  Dawn of the Human Imagination</itunes:title>
+      <itunes:summary>Episode 11: Secret History #11:  Dawn of the Human Imagination</itunes:summary>
+      <itunes:duration>44:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #10:  The Conspiracy of Evil</title>
       <description>Episode 10: Secret History #10:  The Conspiracy of Evil</description>
