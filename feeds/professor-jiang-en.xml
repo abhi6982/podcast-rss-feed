@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Thu, 26 Mar 2026 20:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 05:18:51 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #12:  Heaven on Earth</title>
+      <description>Episode 12: Secret History #12:  Heaven on Earth</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15RQ4q3vqO4RIvkiAAGYmggqz1Hu8Suex" length="37331906" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-012</guid>
+      <pubDate>Fri, 27 Mar 2026 05:18:51 +0000</pubDate>
+      <itunes:episode>12</itunes:episode>
+      <itunes:title>Secret History #12:  Heaven on Earth</itunes:title>
+      <itunes:summary>Episode 12: Secret History #12:  Heaven on Earth</itunes:summary>
+      <itunes:duration>38:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #11:  Dawn of the Human Imagination</title>
       <description>Episode 11: Secret History #11:  Dawn of the Human Imagination</description>
