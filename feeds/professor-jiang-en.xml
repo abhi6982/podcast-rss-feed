@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Fri, 27 Mar 2026 12:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 05:19:06 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #13:  Mandate of Heaven</title>
+      <description>Episode 13: Secret History #13:  Mandate of Heaven</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18pMciufVJSjTADl-YucuFRJlugRym4ef" length="42462929" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-013</guid>
+      <pubDate>Sat, 28 Mar 2026 05:19:06 +0000</pubDate>
+      <itunes:episode>13</itunes:episode>
+      <itunes:title>Secret History #13:  Mandate of Heaven</itunes:title>
+      <itunes:summary>Episode 13: Secret History #13:  Mandate of Heaven</itunes:summary>
+      <itunes:duration>44:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #12:  Heaven on Earth</title>
       <description>Episode 12: Secret History #12:  Heaven on Earth</description>
