@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Sat, 28 Mar 2026 12:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 05:22:02 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #14:  Legacy of the Steppes</title>
+      <description>Episode 14: Secret History #14:  Legacy of the Steppes</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17icmxGGK9tSr3oV3fNnAJgPLXbS92fGS" length="36243754" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-014</guid>
+      <pubDate>Sun, 29 Mar 2026 05:22:02 +0000</pubDate>
+      <itunes:episode>14</itunes:episode>
+      <itunes:title>Secret History #14:  Legacy of the Steppes</itunes:title>
+      <itunes:summary>Episode 14: Secret History #14:  Legacy of the Steppes</itunes:summary>
+      <itunes:duration>37:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #13:  Mandate of Heaven</title>
       <description>Episode 13: Secret History #13:  Mandate of Heaven</description>
