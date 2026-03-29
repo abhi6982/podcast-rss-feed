@@ -8,7 +8,7 @@
     <description>Deep-dive educational podcast covering political science from ideologies to revolutions. Perfect for students, curious minds, and anyone who wants to understand how the world is governed. New episode daily.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Sun, 29 Mar 2026 05:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 11:19:43 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Religion, Culture &amp; Political Power</title>
+      <description>&gt; "In Nepal, religion has never been merely a private matter of faith. It has been the foundation of royal authority, the justification for caste hierarchy, the weapon of exclusion, and the rallying cry for revolution."</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12s_mrNFMQfourU_sGeEQ45HtTys-fuMh" length="37366270" type="audio/mpeg"/>
+      <guid isPermaLink="false">political-science-en-ep-022</guid>
+      <pubDate>Sun, 29 Mar 2026 11:19:43 +0000</pubDate>
+      <itunes:episode>22</itunes:episode>
+      <itunes:title>Religion, Culture &amp; Political Power</itunes:title>
+      <itunes:summary>&gt; "In Nepal, religion has never been merely a private matter of faith. It has been the foundation of royal authority, the justification for caste hierarchy, the weapon of exclusion, and the rallying cry for revolution."</itunes:summary>
+      <itunes:duration>38:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Geography, Society &amp; Early Governance</title>
       <description>&gt; "Nepal’s politics cannot be understood without understanding its land. Mountains created isolation, the Terai created connection, and the Valley created power. Every political movement in Nepal’s history was shaped by this terrain."</description>
@@ -156,7 +168,7 @@
       <description>---</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rgLUnsSGAbZgf4cV11YDWahxTr2fBtUR" length="39458674" type="audio/mpeg"/>
       <guid isPermaLink="false">political-science-en-ep-010</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:02 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:19:43 +0000</pubDate>
       <itunes:episode>10</itunes:episode>
       <itunes:title>Maoism Its Impact On Nepal</itunes:title>
       <itunes:summary>---</itunes:summary>
@@ -168,7 +180,7 @@
       <description>---</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ij2R6-ef7MsnGuOoPjVoQ3TkfxQgPqZ9" length="24592500" type="audio/mpeg"/>
       <guid isPermaLink="false">political-science-en-ep-009</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:02 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:19:43 +0000</pubDate>
       <itunes:episode>9</itunes:episode>
       <itunes:title>Capitalism Free Market Economics</itunes:title>
       <itunes:summary>---</itunes:summary>
@@ -180,7 +192,7 @@
       <description>---</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Blx3-DVBuBqdxBqfs13E8-CvsH9Yzih-" length="43396328" type="audio/mpeg"/>
       <guid isPermaLink="false">political-science-en-ep-008</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:02 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:19:43 +0000</pubDate>
       <itunes:episode>8</itunes:episode>
       <itunes:title>Fascism Authoritarianism</itunes:title>
       <itunes:summary>---</itunes:summary>
@@ -192,7 +204,7 @@
       <description>---</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HTKS59cbfFq6mXRs72LwGoq1i8d41jeo" length="47472068" type="audio/mpeg"/>
       <guid isPermaLink="false">political-science-en-ep-007</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:02 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:19:43 +0000</pubDate>
       <itunes:episode>7</itunes:episode>
       <itunes:title>Nationalism</itunes:title>
       <itunes:summary>---</itunes:summary>
@@ -204,7 +216,7 @@
       <description>---</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Gas7BmE3kuEA6YJDocIlfax9At6SCMyt" length="40658135" type="audio/mpeg"/>
       <guid isPermaLink="false">political-science-en-ep-006</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:02 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:19:43 +0000</pubDate>
       <itunes:episode>6</itunes:episode>
       <itunes:title>Conservatism</itunes:title>
       <itunes:summary>---</itunes:summary>
@@ -216,7 +228,7 @@
       <description>---</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1I3PNgnu8W1xgwpb7mEi8hFmkXO7cRUJD" length="44865470" type="audio/mpeg"/>
       <guid isPermaLink="false">political-science-en-ep-005</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:02 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:19:43 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
       <itunes:title>Liberalism Classical Liberalism</itunes:title>
       <itunes:summary>---</itunes:summary>
@@ -228,7 +240,7 @@
       <description>---</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uM5GBiHI2sGDoZyINeqmPrk-vRgqHts8" length="31932581" type="audio/mpeg"/>
       <guid isPermaLink="false">political-science-en-ep-004</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:02 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:19:43 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
       <itunes:title>Democracy</itunes:title>
       <itunes:summary>---</itunes:summary>
@@ -240,7 +252,7 @@
       <description>Chapter 3: Socialism, Marxism &amp; Communism समाजवाद, मार्क्सवाद, साम्यवाद Glossary / शब्दकोश English Nepali Script Meaning Socialism Samajvaad समाजवाद Economic system with collective/state ownership; reduce inequality Communism Saamyavaad साम्यवाद Classless, stateless society; all property owned collectively Marxism Marxvaad मार्क्सवाद Philosophy of Karl Marx: class struggle, historical materialism Leninism Leninvaad लेनिनवाद Lenin’s adaptation: vanguard party leads revolution Maoism Maovaad माओवा</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_pY8KMAjnaLcqfgfrakdkAq1Jwe2RGFc" length="40871157" type="audio/mpeg"/>
       <guid isPermaLink="false">political-science-en-ep-003</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:02 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:19:43 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
       <itunes:title>Socialism Marxism Communism</itunes:title>
       <itunes:summary>Chapter 3: Socialism, Marxism &amp; Communism समाजवाद, मार्क्सवाद, साम्यवाद Glossary / शब्दकोश English Nepali Script Meaning Socialism Samajvaad समाजवाद Economic system with collective/state ownership; reduce inequality Communism Saamyavaad साम्यवाद Classless, stateless society; all property owned collectively Marxism Marxvaad मार्क्सवाद Philosophy of Karl Marx: class struggle, historical materialism Leninism Leninvaad लेनिनवाद Lenin’s adaptation: vanguard party leads revolution Maoism Maovaad माओवा</itunes:summary>
@@ -252,7 +264,7 @@
       <description>Episode 2: Monarchy Absolutism</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=12-PrhYNCVrkU0HQ4cu1yAiG2rt0QYDYS" length="20552502" type="audio/mpeg"/>
       <guid isPermaLink="false">political-science-en-ep-002</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:02 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:19:43 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
       <itunes:title>Monarchy Absolutism</itunes:title>
       <itunes:summary>Episode 2: Monarchy Absolutism</itunes:summary>
@@ -264,7 +276,7 @@
       <description>Glossary / शब्दकोश English Term Nepali Term Nepali Script Meaning Politics Rajniti राजनीति The art and science of governance and power Ideology Vichaardhara विचारधारा A system of ideas and ideals forming the basis of political theory Government Sarkar सरकार The governing body of a state State Rajya राज्य A politically organized community under one government Power Shakti / Satta शक्ति / सत्ता Authority and ability to govern Revolution Kranti क्रान्ति Fundamental overthrow of a political system C</description>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tyLI0x64QIkiPJBfVpLWx-E_nmeek15w" length="40434654" type="audio/mpeg"/>
       <guid isPermaLink="false">political-science-en-ep-001</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:02 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 11:19:43 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <itunes:title>What Is Politics What Is Ideology</itunes:title>
       <itunes:summary>Glossary / शब्दकोश English Term Nepali Term Nepali Script Meaning Politics Rajniti राजनीति The art and science of governance and power Ideology Vichaardhara विचारधारा A system of ideas and ideals forming the basis of political theory Government Sarkar सरकार The governing body of a state State Rajya राज्य A politically organized community under one government Power Shakti / Satta शक्ति / सत्ता Authority and ability to govern Revolution Kranti क्रान्ति Fundamental overthrow of a political system C</itunes:summary>
