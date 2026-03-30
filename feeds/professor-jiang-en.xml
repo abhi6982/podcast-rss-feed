@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Sun, 29 Mar 2026 12:19:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 05:18:00 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #15:  Capital and the Bronze Age Collapse</title>
+      <description>Episode 15: Secret History #15:  Capital and the Bronze Age Collapse</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GIDFiKJuG0-GXrKjcN2B2hN32NAVDDso" length="40250136" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-015</guid>
+      <pubDate>Mon, 30 Mar 2026 05:18:00 +0000</pubDate>
+      <itunes:episode>15</itunes:episode>
+      <itunes:title>Secret History #15:  Capital and the Bronze Age Collapse</itunes:title>
+      <itunes:summary>Episode 15: Secret History #15:  Capital and the Bronze Age Collapse</itunes:summary>
+      <itunes:duration>41:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #14:  Legacy of the Steppes</title>
       <description>Episode 14: Secret History #14:  Legacy of the Steppes</description>
