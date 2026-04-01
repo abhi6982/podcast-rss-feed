@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Tue, 31 Mar 2026 05:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 05:18:52 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #17:  Literary Genesis</title>
+      <description>Episode 17: Secret History #17:  Literary Genesis</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UKymuA9TB7rk6Y2xFo2mx6rApqsVtYUh" length="40291223" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-017</guid>
+      <pubDate>Wed, 01 Apr 2026 05:18:52 +0000</pubDate>
+      <itunes:episode>17</itunes:episode>
+      <itunes:title>Secret History #17:  Literary Genesis</itunes:title>
+      <itunes:summary>Episode 17: Secret History #17:  Literary Genesis</itunes:summary>
+      <itunes:duration>41:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #16:  The Big Bang of Greek Civilization</title>
       <description>Episode 16: Secret History #16:  The Big Bang of Greek Civilization</description>
