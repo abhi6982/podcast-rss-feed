@@ -8,7 +8,7 @@
     <description>Deep-dive analysis and fact-checking of Professor Jiang Xueqin's viral Predictive History series. Each episode expands on one of Jiang's 131 lectures with additional research, cross-references, and cinematic storytelling. Covering Secret History, Civilization, Game Theory, Geo-Strategy, and Great Books.</description>
     <language>en</language>
     <link></link>
-    <lastBuildDate>Wed, 01 Apr 2026 11:26:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 06:19:57 +0000</lastBuildDate>
     <itunes:author>Abishek Lakandri</itunes:author>
     <itunes:owner>
       <itunes:name>Abishek Lakandri</itunes:name>
@@ -19,6 +19,18 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Secret History #18:  Thus Spoke Zarathustra</title>
+      <description>Episode 18: Secret History #18:  Thus Spoke Zarathustra</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1erA2T6DSszcCzTCSljH61Edb_uAK5TS7" length="43086191" type="audio/mpeg"/>
+      <guid isPermaLink="false">professor-jiang-en-ep-018</guid>
+      <pubDate>Thu, 02 Apr 2026 06:19:57 +0000</pubDate>
+      <itunes:episode>18</itunes:episode>
+      <itunes:title>Secret History #18:  Thus Spoke Zarathustra</itunes:title>
+      <itunes:summary>Episode 18: Secret History #18:  Thus Spoke Zarathustra</itunes:summary>
+      <itunes:duration>44:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Secret History #17:  Literary Genesis</title>
       <description>Episode 17: Secret History #17:  Literary Genesis</description>
